@@ -13,7 +13,7 @@ In this project, I have taken a sales dataset of a coffee shop and performed dat
 
 Instead of directly working on clean data, I first created a staging table and then built proper tables from it. This helped in understanding how actual data pipelines work in real scenarios.
 
-The project mainly focuses on finding useful insights like sales trends, top products, and customer behavior.
+The project mainly focuses on finding useful insights like sales trends, top products, and customer behaviour.
 
 ---
 
